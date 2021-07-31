@@ -31,6 +31,10 @@
 <img src="https://profile-counter.glitch.me/utrosh/count.svg" style="max-width:100%;">
 
 #
+## MON DISCORD
+<img src="https://discord.c99.nl/widget/theme-3/771166051454025779.png" style="max-width:100%;">
+
+#
 ## MES RESEAUX SOCIAUX
 
  1. **Discord** : UTrosh#0457
