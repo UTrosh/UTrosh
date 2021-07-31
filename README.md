@@ -18,7 +18,7 @@
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=utrosh&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;locale=fr" style="max-width:100%;">
 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billythegoat356&amp;layout=compact&amp;langs_count=8&amp;theme=react&amp;locale=fr" style="max-width:100%;">
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=utrosh&amp;layout=compact&amp;langs_count=8&amp;theme=react&amp;locale=fr" style="max-width:100%;">
 
 #
 ## MES PROJET LES PLUS VUE/AIME
