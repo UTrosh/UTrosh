@@ -14,7 +14,6 @@
 
 - **Développeur JavaScript & Java** 🔐
 - **Développeur Web (SCSS,CSS,JAVASCRIPT,PHP,HTML)** 🌍
-- **Développeur BASH&PERL&LUA**🌱
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=utrosh&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;locale=fr" style="max-width:100%;">
 
